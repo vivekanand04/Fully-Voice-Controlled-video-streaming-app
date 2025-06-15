@@ -56,16 +56,6 @@ This project aims to make video streaming more accessible and intuitive by enabl
 
 ## 📦 Setup Instructions
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/voice-video-app.git
-   cd voice-video-app
-
-
-
-
-
-
 
 Use Voice Commands
 Make sure your browser supports the Web Speech API.
